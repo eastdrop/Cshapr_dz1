@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\bin\Debug\net6.0\task2.exe
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\bin\Debug\net6.0\task2.deps.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\bin\Debug\net6.0\task2.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\bin\Debug\net6.0\task2.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\refint\task2.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz1\Cshapr_dz1\task2\obj\Debug\net6.0\ref\task2.dll
